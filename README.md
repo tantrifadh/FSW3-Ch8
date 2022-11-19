@@ -1,9 +1,11 @@
 # BCR API
 
-Di dalam repository ini terdapat implementasi API dari Binar Car Rental.
-Tugas kalian disini adalah:
-1. Fork repository
-2. Tulis unit test di dalam repository ini menggunakan `jest`.
-3. Coverage minimal 70%
+# Install
+1. Download/Clone repository 
+        https://github.com/tantrifadh/FSW3-Ch8
+2. Instal Depenciens
+3. Instal yarn add --dev jest
+4. Jalankan yarn test
 
-Good luck!
+Hasil coverage :
+  <img src="coverage.png" alt="Page" width="650" height="300">
